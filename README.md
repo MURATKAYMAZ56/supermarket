@@ -32,7 +32,7 @@ You can use Postman (or any other client ) to make API calls to expose endpoints
 
 **URL**: `POST /`
 
-**Description**: Upload a CSV file containing product information. 
+**Description**: Upload a CSV file containing product information. You can use supermarket.csv file for test purposes.
 
 **Parameters**: file (multipart file): CSV file containing product information.
 
